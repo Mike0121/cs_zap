@@ -43,3 +43,14 @@
 7.   Add **SSL support**  
 
 ---
+
+## C言語コンパイル実行手順
+1. コンパイル
+```bash
+gcc test.c -o add
+```
+
+2. 実行
+```bash
+./add
+```
