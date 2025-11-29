@@ -2,7 +2,6 @@
 ### 課題内容
 - C 言語 + system call で HTTP Server を作ってみよう  
 - 次のリクエストに対して正しいレスポンスを返すこと：
-* C 言語 + system call で HTTP Server を作ってみよう 
 * GET /calc?query=2+10 HTTP/1.1に対して、HTTP/1.1 200 OK 
 * Content-Length: 2 
 * 12
