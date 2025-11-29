@@ -18,6 +18,7 @@
 #define BUF_SIZE 1024   // 受信バッファのサイズ
 
 int main() {
+    // test commit 
     int server_fd, client_fd;               // サーバー用・クライアント用のファイルディスクリプタ
     struct sockaddr_in address;             // ソケットアドレス構造体（IPv4用）
     char buffer[BUF_SIZE];                  // クライアントからのリクエストデータ格納用
